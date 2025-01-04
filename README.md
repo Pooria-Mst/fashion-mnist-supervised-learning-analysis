@@ -1,0 +1,2 @@
+Project Description:
+The Fashion MNIST dataset includes tiny images of fashion pieces. The objective is to create a set of supervised learning models that can predict the type of item based on its image. I used supervised learning models to analyze the MNIST dataset. For the test set, I created a very small dataset by taking 5 images from my apparel collection to test the algorithms. The test set is just an example to demonstrate how unseen data can be plugged into the algorithms. You can use any other dataset to replace mine.
